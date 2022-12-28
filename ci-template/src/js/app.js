@@ -3,3 +3,5 @@ import Game, {GameSavingData, readGameSaving as loadGame, writeGameSaving as sav
 
 const game = new Game();
 game.start();
+
+console.log('app worked');
