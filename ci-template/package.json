@@ -39,7 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IPL1987/ajs-homeworks/tree/master/ci-template"
+    "url": "git+https://github.com/IPL1987/ajs-homeworks.git#master"
   },
+  "bugs": {
+    "url": "https://github.com/IPL1987/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/IPL1987/ajs-homeworks/tree/master#readme",
   "description": ""
 }
